@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 kubevirt/virtio-container-disk
+docker.io/kubeovn/vpc-nat-gateway:v1.13.1
