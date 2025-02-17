@@ -6,3 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 kubevirt/virtio-container-disk
 docker.io/kubeovn/vpc-nat-gateway:v1.13.1
+labring/kube-ovn:v1.10.5
+labring/kubernetes:v1.24.17
